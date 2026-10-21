@@ -1,0 +1,7 @@
+name: genpark-safe-eval-expression-ast-sandbox-skill
+description: Zero-dependency AST safe mathematical and boolean expression evaluator and validator preventing arbitrary code execution
+version: 1.0.1
+entrypoint: mcp_server.py
+command: python
+args:
+  - mcp_server.py
