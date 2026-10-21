@@ -1,0 +1,9 @@
+{
+  "name": "genpark-safe-eval-expression-ast-sandbox-skill",
+  "version": "1.0.1",
+  "description": "Zero-dependency AST safe mathematical and boolean expression evaluator and validator preventing arbitrary code execution",
+  "tools": [
+    "validate_expression",
+    "safe_eval"
+  ]
+}
